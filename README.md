@@ -1,10 +1,10 @@
 # gbio2
 
 ## Description
-Project gbio2
+A mixed Rust/Go project (possibly `gitblox` related).
 
 ## Goals
-- [ ] Add project goals
+- [ ] TBD (Likely related to `gare`/`gitblox`)
 
 ## Progress
 - [ ] Initial setup
